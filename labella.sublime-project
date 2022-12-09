@@ -1,0 +1,24 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+      "folder_exclude_patterns":
+      [
+        ".sass-cache",
+        ".tmp",
+        ".grunt",
+        "node_modules",
+        "bower_components",
+        "coverage",
+        "tmp",
+        "dist",
+        ".publish"
+      ],
+		}
+	],
+  "settings":
+  {
+    "tab_size": 2
+  }
+}
